@@ -73,7 +73,7 @@ Certainly! Here's a checklist of key points for your YOLOv8 door detection proje
 - [x]  **Model Training:**
   - [x] Load the pre-trained YOLOv8 model.
   - [x] Train the model using the annotated dataset.
-  - [ ] Evaluate model performance .
+  - [x] Evaluate model performance .
 
 - [x] **Share Weights:**
   - [x] Save model weights after training.
