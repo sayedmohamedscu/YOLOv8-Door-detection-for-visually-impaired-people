@@ -9,6 +9,8 @@ The dataset has been collected from New York and annotated through a combination
 **Dataset Download:**
 [Download Dataset](https://drive.google.com/file/d/1-0dWfmeUXN7V1tvZQubcRW6frCEu8fjq/view?usp=sharing)
 
+
+
 ## Installation and Usage
 
 1. Install the required library:
@@ -61,7 +63,11 @@ The dataset has been collected from New York and annotated through a combination
    plt.show()
    ```
 
-Certainly! Here's a checklist of key points for your YOLOv8 door detection project:
+![example](doors.png)
+![results](results.png)
+
+
+Here's a checklist of key points for YOLOv8 door detection project:
 
 - [x] **Data Annotation:**
   - [x] Auto-annotate dataset using a cutting-edge solution.
