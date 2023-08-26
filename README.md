@@ -64,6 +64,35 @@ The dataset has been collected from New York and annotated through a combination
    plt.show()
    ```
 
-### upcoming 
+Certainly! Here's a checklist of key points for your YOLOv8 door detection project:
 
-deployment on hugging face
+- [x] **Data Annotation:**
+  - [x] Auto-annotate dataset using a cutting-edge solution.
+  - [x] Enhance annotations manually for improved accuracy.
+
+- [x]  **Model Training:**
+  - [x] Load the pre-trained YOLOv8 model.
+  - [x] Train the model using the annotated dataset.
+  - [ ] Evaluate model performance .
+
+- [x] **Share Weights:**
+  - [x] Save model weights after training.
+  - [x] Share trained model weights with the community.
+
+- [x] **Share Data:**
+  - [x] Provide access to the annotated dataset for transparency.
+   
+- [ ] **Hugging Face deployment:**
+  
+  - [x] convert model into onnx
+  - [ ] Deploy the trained YOLOv8 model on Hugging Face.
+
+- [ ] **API deployment:**
+  - [x] convert model into onnx
+  - [ ] FastAPI code for deployment.
+  - [ ] docker image
+  - [ ] deploymernt into AWS
+
+- [ ] **Mobile deployment:**
+  - [x] convert model into tflite
+  - [ ] flutter code.
