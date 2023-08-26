@@ -1,6 +1,3 @@
-# YOLOv8-Door-detection-for-visually-impaired-people
-
-
 # YOLOv8 Door Detection for Visually Impaired Individuals
 
 Imagine a world where doors become more than just obstacles for the visually impaired. Our YOLOv8 project revolutionizes accessibility by using cutting-edge computer vision technology to detect doors.
