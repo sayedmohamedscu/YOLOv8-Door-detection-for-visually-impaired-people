@@ -1,5 +1,7 @@
 # YOLOv8 Door Detection for Visually Impaired Individuals
 
+## [Medium]([https://medium.com/@elsayed_mohamed](https://medium.com/@elsayed_mohamed/how-to-train-your-own-first-yolov8-model-door-detection-for-visually-impaired-people-4d08b5e37612)) 
+
 Imagine a world where doors become more than just obstacles for the visually impaired. Our YOLOv8 project revolutionizes accessibility by using cutting-edge computer vision technology to detect doors.
 
 ## Dataset
